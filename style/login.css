@@ -1,6 +1,6 @@
-@charset "UTF-8"
+@charset "UTF-8";
 
-/** {
+* {
     margin: 0;
     padding: 0;
     font-size: 100%;
@@ -8,8 +8,24 @@
     outline: none;
     font-weight: 300;
     box-sizing: border-box;
-}*/
+}
 
 body {
-    background-color: blue;
+    background-color: #0d6efd;
+    margin-top: 45px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.quadro{
+    background-color: white;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+h3 {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    font-family: Calibri, sans-serif;
 }
